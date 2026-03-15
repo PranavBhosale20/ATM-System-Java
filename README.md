@@ -27,8 +27,9 @@ This project simulates core banking operations such as deposits, withdrawals, ba
 | **Eclipse IDE** | Development environment |
 
 ---
-
 ## 📂 Project Structure
+
+```
 ATM-System-Java
 │
 ├── src
@@ -44,6 +45,7 @@ ATM-System-Java
 ├── screenshots
 │
 └── README.md
+```
 
 
 ---
