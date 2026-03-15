@@ -74,7 +74,7 @@ ATMSystem.java
 
 The database contains two tables:
 
-**accounts**
+**Accounts**
 
 | Column | Description |
 |------|-------------|
@@ -83,7 +83,7 @@ The database contains two tables:
 | current_balance | Current account balance |
 | saving_balance | Savings account balance |
 
-**transactions**
+**Transactions**
 
 Stores transaction history for deposits and withdrawals.
 
