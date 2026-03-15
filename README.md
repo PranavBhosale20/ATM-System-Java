@@ -32,14 +32,14 @@ This project simulates core banking operations such as deposits, withdrawals, ba
 ATM-System-Java
 │
 ├── src
-│ └── atm_project
-│ ├── ATMSystem.java
-│ ├── Account.java
-│ ├── OptionMenu.java
-│ └── DatabaseConnection.java
+│   └── atm_project
+│       ├── ATMSystem.java
+│       ├── Account.java
+│       ├── OptionMenu.java
+│       └── DatabaseConnection.java
 │
 ├── database
-│ └── atm_database.sql
+│   └── atm_database.sql
 │
 ├── screenshots
 │
