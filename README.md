@@ -29,7 +29,6 @@ This project simulates a real-world ATM system where users can securely log in, 
 | **Eclipse IDE** | Development environment |
 
 ---
----
 ## 📂 Project Structure
 
 ```
@@ -51,6 +50,7 @@ ATM-System-Java
 ---
 
 ## ⚙️ How to Run the Project
+---
 
 1️⃣ Clone the repository
 git clone https://github.com/PranavBhosale20/ATM-System-Java.git
