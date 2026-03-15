@@ -3,6 +3,8 @@
 A **console-based ATM Transaction System** developed using **Java, JDBC, and MySQL**.  
 This project simulates core banking operations such as deposits, withdrawals, balance inquiry, and transaction tracking.
 
+## 💡 Project Overview
+This project simulates a real-world ATM system where users can securely log in, perform transactions such as deposits and withdrawals, and track transaction history. An admin panel is also provided to monitor accounts and transactions.
 ---
 
 ## 🚀 Features
@@ -45,9 +47,6 @@ ATM-System-Java
 ├── screenshots
 │
 └── README.md
-```
-
-
 ---
 
 ## ⚙️ How to Run the Project
@@ -55,20 +54,16 @@ ATM-System-Java
 1️⃣ Clone the repository
 git clone https://github.com/PranavBhosale20/ATM-System-Java.git
 
-
 2️⃣ Import the project into **Eclipse IDE**
 
 3️⃣ Setup MySQL database using:
 database/atm_database.sql
 
-
 4️⃣ Configure database credentials in:
 DatabaseConnection.java
 
-
 5️⃣ Run the program:
 ATMSystem.java
-
 
 ---
 
@@ -88,6 +83,14 @@ The database contains two tables:
 **Transactions**
 
 Stores transaction history for deposits and withdrawals.
+
+---
+## 🚀 Future Improvements
+
+- Add graphical interface (Java Swing / Web UI)
+- Implement secure password hashing
+- Add REST API layer using Spring Boot
+- Improve exception handling and validation
 
 ---
 
