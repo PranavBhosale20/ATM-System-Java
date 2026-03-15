@@ -40,40 +40,41 @@ An **admin module** allows administrators to view all accounts and transaction r
 
 ## 📂 Project Structure
 
----
+```
 ATM-System-Java
 │
 ├── src
-│ └── atm_project
-│ ├── ATMSystem.java
-│ ├── Account.java
-│ ├── OptionMenu.java
-│ └── DatabaseConnection.java
+│   └── atm_project
+│       ├── ATMSystem.java
+│       ├── Account.java
+│       ├── OptionMenu.java
+│       └── DatabaseConnection.java
 │
 ├── database
-│ └── atm_database.sql
+│   └── atm_database.sql
 │
 ├── screenshots
 │
 └── README.md
+```
 
 ---
 
 ## ⚙️ How to Run the Project
 
 1️⃣ Clone the repository
-git clone https://github.com/PranavBhosale20/ATM-System-Java.git
+**git clone https://github.com/PranavBhosale20/ATM-System-Java.git**
 
 2️⃣ Import the project into **Eclipse IDE**
 
 3️⃣ Setup MySQL database using the SQL file located in
-database/atm_database.sql
+**database/atm_database.sql**
 
 4️⃣ Configure database credentials in
-DatabaseConnection.java
+**DatabaseConnection.java**
 
 5️⃣ Run the program
-ATMSystem.java
+**ATMSystem.java**
 
 
 ---
